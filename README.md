@@ -16,7 +16,7 @@ Each command produced different search results as listed below:
 * node liri.js concert-this "artist/band name"
     * Name of venue
     * Venue location
-    * Date of the eveny in MM/DD/YYYY format
+    * Date of the event in MM/DD/YYYY format
 
 * node liri.js spotify-this-song "song/track name"
     * Artist
